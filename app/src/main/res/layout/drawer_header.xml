@@ -35,7 +35,6 @@
             android:id="@+id/text_user_email"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="slidenerd@gmail.com"
             android:textColor="@android:color/white"
             android:gravity="right"
             style="@style/TextAppearance.AppCompat.Small" />
