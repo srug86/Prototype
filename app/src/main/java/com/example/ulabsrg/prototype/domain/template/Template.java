@@ -12,9 +12,10 @@ public class Template {
     private String name;
     private CategoryCollection categories;
 
-    public Template(UUID id, String version) {
+    public Template(UUID id, String version, String name) {
         this.id = id;
         this.version = version;
+        this.name = name;
     }
 
     public UUID getId() {

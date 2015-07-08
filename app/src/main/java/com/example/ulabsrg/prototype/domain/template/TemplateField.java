@@ -1,7 +1,5 @@
 package com.example.ulabsrg.prototype.domain.template;
 
-import extras.FieldType;
-
 /**
  * Created by ulabsrg on 07/07/2015.
  */
