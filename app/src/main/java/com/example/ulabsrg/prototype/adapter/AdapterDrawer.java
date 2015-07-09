@@ -45,7 +45,6 @@ public class AdapterDrawer extends RecyclerView.Adapter<RecyclerView.ViewHolder>
             ItemHolder holder = new ItemHolder(view);
             return holder;
         }
-
     }
 
     @Override
